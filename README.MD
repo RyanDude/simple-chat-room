@@ -1,0 +1,1 @@
+SIMPLE public chatroom
